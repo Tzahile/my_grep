@@ -1,0 +1,6 @@
+my_grep TzahiDor targetDoc
+my_grep -i TzAHiDOr targetDoc
+my_grep Lorem targetDoc
+my_grep balbal targetDoc
+my_grep -n bla targetDoc
+my_grep -E "A[1-9].A" targetDoc
